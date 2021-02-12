@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-# That I know and use
-## Front-end
+## That I know and use
+### Front-end
 - Vue (Vue-CLI, Vuex, Nuxt)
 - JavaScript 使用 ES6 撰寫
 - HTML5, CSS(CSS3, SCSS)
@@ -11,7 +11,7 @@
 - Electron
 - Git
 
-## Back-end
+### Back-end
 - Node (Express)
 - Firebase
 - PHP (Laravel, Codeigniter)
