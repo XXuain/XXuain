@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-# ss
+# That I know and use
+## Front-end
 - Vue (Vue-CLI, Vuex, Nuxt)
 - JavaScript 使用 ES6 撰寫
 - HTML5, CSS(CSS3, SCSS)
@@ -9,6 +10,14 @@
 - CI/CD, Docker
 - Electron
 - Git
+
+## Back-end
+- Node (Express)
+- Firebase
+- PHP (Laravel, Codeigniter)
+- Python (Virtualenv, Pipline)
+- Heroku
+- MySQL
 
 ![](https://visitor-badge.glitch.me/badge?page_id=XXuain)
 
