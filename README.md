@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-
+# ss
+- Vue (Vue-CLI, Vuex, Nuxt)
+- JavaScript 使用 ES6 撰寫
+- HTML5, CSS(CSS3, SCSS)
+- Webpack, Gulp
+- WebSocket
+- CI/CD, Docker
+- Electron
+- Git
 
 ![](https://visitor-badge.glitch.me/badge?page_id=XXuain)
 
