@@ -2,7 +2,7 @@
 
 ## That I know and use
 ### Front-end
-- Vue (Vue-CLI, Vuex, Nuxt)
+- Vue, Vuex, Vue-Router, Nuxt
 - JavaScript 使用 ES6 撰寫
 - HTML5, CSS(CSS3, SCSS)
 - Webpack, Gulp
