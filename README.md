@@ -7,7 +7,8 @@
 - CSS, CSS3, SCSS
 - Webpack, Gulp
 - WebSocket
-- CI/CD, Docker
+- CI/CD (gitHub, Travis CI)
+- Docker
 - Electron
 - Git
 
