@@ -8,7 +8,6 @@
 - Webpack, Gulp
 - WebSocket
 - CI/CD (gitHub, Travis CI)
-- Docker
 - Electron
 - Git
 
