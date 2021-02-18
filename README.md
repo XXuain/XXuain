@@ -4,6 +4,7 @@
 ### Front-end
 - Vue, Vuex, Vue-Router, Nuxt
 - JavaScript 使用 ES6 撰寫
+- TypeScript
 - CSS, CSS3, SCSS
 - Webpack, Gulp
 - WebSocket
@@ -16,6 +17,7 @@
 - Firebase
 - PHP (Laravel, Codeigniter)
 - Python (Virtualenv, Pipline)
+- Docker
 - Heroku
 - MySQL
 
