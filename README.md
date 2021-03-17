@@ -17,7 +17,6 @@
 - Firebase
 - PHP (Laravel, Codeigniter)
 - Python (Virtualenv, Pipline)
-- Docker
 - Heroku
 - MySQL
 
