@@ -3,7 +3,7 @@
 ## That I know and use
 ### Front-end
 - Vue, Vuex, Vue-Router, Nuxt
-- JavaScript 使用 ES6 撰寫
+- JavaScript ES6
 - TypeScript
 - CSS, CSS3, SCSS
 - Webpack, Gulp
