@@ -1,4 +1,5 @@
 ### Hi there 👋
+Hi, I am yellow! I am a front-end developer, and I try to learn more about web technologies and skills every day. It's not difficult, as long as my cats are not so cute.
 
 ## That I know and use
 ### Front-end
