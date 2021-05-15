@@ -11,10 +11,9 @@ Hi, I am Yellow! I am a front-end developer, and I try to learn more about web t
 - CSS, CSS3, SCSS
 - Webpack, Gulp
 - WebSocket
-- CI/CD (gitHub, Travis CI)
 - Electron
-- Git
 - AntDesign, Vuetify, Element
+- Git, CI/CD (gitHub, Travis CI)
 
 ### Back-end
 - Node (Express)
