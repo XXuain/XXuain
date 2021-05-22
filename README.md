@@ -4,10 +4,9 @@ Hi, I am Yellow! I am a front-end developer, and I try to learn more about web t
 ## That I know and use
 ### Front-end
 - Vue, Vuex, Vue-Router, Nuxt
-- React, Redux-toolkit
+- React, React-hooks, Redux-toolkit
 - Apollo-client, graphQL
 - JavaScript ES6
-- TypeScript
 - CSS, CSS3, SCSS
 - Webpack, Gulp
 - WebSocket
