@@ -3,7 +3,7 @@ Hi, I am Yellow! I am a front-end developer, and I try to learn more about web t
 
 ## That I know and use
 ### Front-end
-- React, React-hooks, Redux-toolkit
+- React, Hook, Redux-toolkit
 - Apollo-client, graphQL
 - Vue, Vuex, Vue-Router, Nuxt
 - JavaScript ES6
